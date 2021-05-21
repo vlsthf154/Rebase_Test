@@ -5,3 +5,4 @@
 3. branch
 2. branch
    - /: ok
+   - checkout
